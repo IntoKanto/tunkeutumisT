@@ -7,7 +7,6 @@ Aluksi tutustuin overthewire.org sivustolla esitettyihin dokumentaatiohin muisti
     ja 
     https://en.wikipedia.org/wiki/Secure_Shell
 
-## a)
 
 ### 0
 tehtävän 0 suorittaminen on ollut yksinkertaista ja helppoa.
