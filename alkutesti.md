@@ -2,6 +2,7 @@
 Liikenteen sieppaus ja analysointi:
 Googlen haun tuloksena löysin entisen opiskelijan blogin, jonka ansiosta sain ymmärrystä tehtävän annosta. 
 Kyseinen blogi: https://susannalehto.fi/2023/tunkeutumistestaus-alkutesti-h0/
+Raportin lyhyteen vaikutti GitHub kanssa ilmeneet ongelmat
 
 Kohteena käyntän terokarvinen.com sivustoa ja työkaluna chromen dev.tools.
 Netvork välilehdeltä pääsin seuraamaan verkkoliikenteen kautta tapahtuvaa toimintaa.
@@ -15,6 +16,8 @@ Kaikki kolme tiedostoa ovat :
 -GET pyyntöä käyttävä toimintoa
 -Status Code on näilä kolmella tiedostolla on 200, mikä taroittaa sitä, että tiedostijen hakemisen yhteydessä ei ole tapahtunut virheitä.
 -Remote Adressina on kaikilla sama osoite ***************
+
+
 
 
 
