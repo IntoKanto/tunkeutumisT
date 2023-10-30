@@ -18,7 +18,7 @@ Vihjeena:
 -Reverse image search might be a good idea.
 
 Käytin Googlen image search työkalua. Haun tuloksena selvisi että kyseessä on James Bond The Living Daylights elokuvan avaimenperä, joka sisältää erilaisia toiminnallisuuksia.
-Kyseisen elokuvan yhden vihollisen näyttelevä näyttelijä on Jaroen Krabbe.
+Kyseisen elokuvan yksi vihollista näyttellyt näyttelijä on Jaroen Krabbe.
 
     https://www.imdb.com/title/tt0093428/
     https://en.wikipedia.org/wiki/Jeroen_Krabb%C3%A9

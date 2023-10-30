@@ -18,12 +18,12 @@ DevTools -> NETWORK -> PATH
 
 ![alt devtoolsGifts](./images/devtoolsgifts.png)
 
-Enponti viittaa siihen mitkä tuoteryhmiä tullaan näkemään. Kokeillaan muokkamaan suoran endpointia suoraan urlissa. 
+Endponti viittaa siihen mitä tuoteryhmiä tullaan näkemään. Kokeillaan muokkamaan suoran endpointia suoraan urlissa. 
 
     /filter?category='
     Kategoriaksi asetetaan '. Huomataan että sivustolle ilmesty virheilmoitus "Internal Server Error"
 
-Voidaan olettaa että kyseinen manipulaatio näkyy SQL käskynä seuraavanlaisena:
+Voidaan olettaa että kyseinen manipulaatio näyttää SQL käskynä seuraavanlaisena:
 
     SELECT * FROM products WHERE category = '
 
