@@ -69,3 +69,13 @@ vähän enemmän työtä vaativa tapa on lisätä jokaisen välilyönnin eteen \
     ls
     file spaces\ in\ this\ filename
     cat spaces\ \in \this\ filename
+
+
+
+
+
+
+
+
+
+
