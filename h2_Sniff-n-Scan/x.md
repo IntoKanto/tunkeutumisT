@@ -8,33 +8,9 @@ Fuzz syötteitä voidaan asettaa:
 - http pyynnön URLissa (poikkeavuden havaitsemiseksi)
 - http pyynnön Host: ositteessa (subdomainien selvittämiseen)
 
- input content
- common targets
- filters and matters
- tools
- why
- resource discovery buff
- url discovery
- file extensions
- recursive
- bruteforce
- post request
- password list
- password brute force
- error
- password
- basic classification
- virtual house discovery
- word list twists
- broken demo 
- parameter discovering
- parameters names
- parameter id
- word list 
- filter
- fast examples
- reflect
- example
+### Tehtävä kesken
+
+ 
 
 
 # ffuf - fuzzing exercise
@@ -318,5 +294,5 @@ Huomataan että kaikki closed tilassa olevat portit lähettävät [RST,ACK] vast
 ### e) nmap ping sweep -sn
 
 
-
+### tehtävä kesken
 
